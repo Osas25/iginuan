@@ -1,4 +1,4 @@
-#!/bin/python3
+#!/bin/python
 # i want to write a code that will collect the user phone number and print out the even number in it
 num = input('the user phone number: ')
 even_num = []
